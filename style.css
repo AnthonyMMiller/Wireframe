@@ -1,0 +1,18 @@
+body {
+    Background: #808080;  
+}
+
+header {
+    background: #D3D3D3;
+    width: 500px;
+    height: 80px;
+    float: center;
+    
+}
+
+nav {
+    margin: 5px, 0px, 5px, 0;
+    background: #D3D3D3;
+    width: 500px;
+    Height: 80px;
+}
