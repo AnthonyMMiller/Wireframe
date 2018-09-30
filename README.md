@@ -1,2 +1,1 @@
-# HW-Wireframe
-Homework assignment one
+# Building a wireframe using HTML and CSS
