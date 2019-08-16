@@ -1,2 +1,2 @@
 # Building a wireframe using HTML and CSS
-https://teckniec.github.io/Wireframe/
+https://AnthonyMMiller.github.io/Wireframe/
